@@ -1,0 +1,99 @@
+@import "minima";
+
+// Custom improvements
+.site-header {
+  border-bottom: 2px solid $brand-color;
+}
+
+.post-title {
+  font-size: 2.2em;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+}
+
+.post-content {
+  line-height: 1.7;
+  
+  h2 {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    color: $brand-color;
+  }
+  
+  h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+  }
+  
+  blockquote {
+    border-left: 4px solid $brand-color;
+    padding-left: 1.5em;
+    font-style: italic;
+    margin: 1.5em 0;
+  }
+  
+  code {
+    background-color: #f8f8f8;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-size: 0.9em;
+  }
+  
+  pre {
+    background-color: #f8f8f8;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    padding: 1em;
+    overflow-x: auto;
+  }
+}
+
+.post-meta {
+  color: $grey-color;
+  font-size: 0.9em;
+  margin-bottom: 1em;
+}
+
+.post-excerpt {
+  color: $grey-color-dark;
+  font-style: italic;
+  margin-bottom: 1em;
+}
+
+// Improve homepage layout
+.home .post-list {
+  .post-link {
+    font-size: 1.3em;
+    font-weight: 500;
+  }
+  
+  .post-excerpt {
+    margin-top: 0.5em;
+  }
+}
+
+// Better mobile experience
+@media screen and (max-width: 600px) {
+  .post-title {
+    font-size: 1.8em;
+  }
+  
+  .post-content {
+    font-size: 1em;
+  }
+}
+
+// Add some visual flair
+.highlight {
+  background-color: #fff3cd;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+.callout {
+  background-color: #e7f3ff;
+  border-left: 4px solid #007acc;
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 0 4px 4px 0;
+}
