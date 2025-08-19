@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Vellore Days"
-date: 2024-12-28
-categories: [life, memories]
+date: 2024-12-15
+categories: [memories]
 tags: [vellore, college, nostalgia, growth, reflection]
 excerpt: "I’m not the kind to dwell on the past or wish I could change things, but my VIT days? I'd like to go back and relive them again and again and again."
 ---

@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "The End Game"
-date: 2024-12-25
+date: 2023-03-11
 categories: [life, philosophy]
 tags: [purpose, meaning, legacy, mortality, perspective]
-excerpt: "We're all playing towards some end game, but most of us haven't stopped to think about what that actually is. Maybe it's time we did."
+excerpt: ""
 ---
-
 The End Game.
 
 We're all playing some version of a game, moving through life making decisions, pursuing goals, building towards something. But here's the question that keeps me up at night: what exactly is the end game? What are we all ultimately working towards?
