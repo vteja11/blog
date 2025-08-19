@@ -6,7 +6,7 @@ categories: [life, memories]
 tags: [vellore, college, nostalgia, growth, reflection]
 excerpt: "I’m not the kind to dwell on the past or wish I could change things, but my VIT days? I'd like to go back and relive them again and again and again."
 ---
-"Let's just go somewhere for god's sake!" yelled Loki passionately while seven of us were yapping in room 201 of the notorious B-block. All of us had just returned from a bland and uneventful winter vacation, and classes were starting today (first week of January). The moment Loki yelled with passion, the feeling was mutual and spread through all of us—like a domino effect. 
+"Let's just go somewhere for god's sake!" yelled Loki passionately while seven of us were yapping in room 201 of the notorious B-block. All of us had just returned from a bland and uneventful winter vacation, and classes were starting today (first week of January). The moment Loki yelled with passion, the feeling was mutual and spread through all of us—like a domino effect.
 
 Someone shouted, "Let's go to Pondicherry!" This is the closest getaway from our university and we always wanted to go to Pondi, but 2 years in and we never went there. At this point we've already been to most of South India—Coorg, Munnar, Alleppey, Kanyakumari and many more—but never to Pondi, which is literally a 4-hour drive.
 
@@ -22,7 +22,7 @@ Meanwhile, Mr. Thota dropped a reality check: there's no direct public transport
 
 And then—plot twist!—Mr. Wire Reddy, watching everything come together and feeling the FOMO, called his father for permission and signed up for the trip. (Told you he was gonna fold!)
 
-Time to head to the station, but Mr. Lol Sai was nowhere to be found. He kept saying "I'm coming, I'm coming," but someone spotted him casually eating an egg puff. Frustrated, someone called him with an ultimatum: "Run fast and get to the block in 10 minutes like your life depends on it". 
+Time to head to the station, but Mr. Lol Sai was nowhere to be found. He kept saying "I'm coming, I'm coming," but someone spotted him casually eating an egg puff. Frustrated, someone called him with an ultimatum: "Run fast and get to the block in 10 minutes like your life depends on it".
 
 We saw him walking back casually, completely clueless that we were about to leave for Pondi. The second he realized what was going down, his face turned bright red with panic and he started resisting. But it was too late—we'd already packed his stuff and sorted his leaves. With that panicked face and no options left, he reluctantly got into the taxi heading for the railway station.
 
