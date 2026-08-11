@@ -4,7 +4,7 @@ title: "Vellore Days"
 date: 2024-12-15
 categories: [memories]
 tags: [vellore, college, nostalgia, growth, reflection]
-excerpt: "I’m not the kind to dwell on the past or wish I could change things, but my VIT days? I'd like to go back and relive them again and again and again."
+excerpt: "I’m not the kind to dwell on the past or wish I could change things, but my Vellore days ? I'd like to go back and relive them again and again and again."
 ---
 "Let's just go somewhere for god's sake!" yelled Loki passionately while seven of us were yapping in room 201 of the notorious B-block. All of us had just returned from a bland and uneventful winter vacation, and classes were starting today (first week of January). The moment Loki yelled with passion, the feeling was mutual and spread through all of us—like a domino effect.
 
