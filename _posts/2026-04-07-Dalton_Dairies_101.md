@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dalton Dairies 101"
+title: "Dalton Dairies"
 date: 2025-08-11
 categories: [story]
 tags: [dalton]
